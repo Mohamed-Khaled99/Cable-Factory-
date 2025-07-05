@@ -6,7 +6,7 @@ In my latest practice project, I combined my experience as a Process Engineer at
 Here’s how I did it:
 # ⿡ Data Generation — Created fake sample data using ChatGPT to simulate real factory operations. (No real production data was used.)
 ![Data-Generation](https://github.com/user-attachments/assets/25b0e48b-c5c4-4b78-80ed-deec31f5308f)
-⿢ Data Modeling — Structured & cleaned the data to build a clear database model.
+# ⿢ Data Modeling — Structured & cleaned the data to build a clear database model.
 ![Data-Modeling](https://github.com/user-attachments/assets/dc74fde0-aa7e-4137-9b70-0f02ed4b44aa)
 
 # ⿣ SQL View — Built specific views to combine production & quality data for meaningful analysis.
