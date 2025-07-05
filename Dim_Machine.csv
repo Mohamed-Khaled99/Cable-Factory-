@@ -1,0 +1,6 @@
+Machine_ID,Machine_Name,Department
+1,EXTRUDER01,Extrusion
+2,EXTRUDER02,Extrusion
+3,CUTTER01,Cutting
+4,Sheathing01,Sheathing
+5,Sheathing02,Sheathing

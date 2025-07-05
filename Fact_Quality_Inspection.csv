@@ -1,0 +1,201 @@
+Inspection_ID,Date_ID,Product_ID,Batch_ID,Result,Defect_Type,Inspector_Name
+1,93,1,1,Pass,None,Khaled
+2,139,5,2,Pass,None,Salma
+3,90,5,3,Pass,None,Eman
+4,116,2,4,Pass,None,Salma
+5,146,5,5,Pass,None,Eman
+6,72,4,6,Pass,None,Eman
+7,65,5,7,Pass,None,Salma
+8,69,3,8,Pass,None,Salma
+9,85,4,9,Pass,None,Eman
+10,76,3,10,Pass,None,Eman
+11,141,4,11,Pass,None,Salma
+12,22,5,12,Pass,None,Salma
+13,126,3,13,Pass,None,Mahmoud
+14,148,2,14,Pass,None,Eman
+15,9,3,15,Pass,None,Salma
+16,20,5,16,Pass,None,Khaled
+17,144,5,17,Pass,None,Mahmoud
+18,118,2,18,Pass,None,Salma
+19,107,2,19,Pass,None,Eman
+20,15,5,20,Pass,None,Eman
+21,125,1,21,Pass,None,Khaled
+22,125,2,22,Pass,None,Eman
+23,63,1,23,Pass,None,Salma
+24,181,3,24,Pass,None,Khaled
+25,22,4,25,Pass,None,Mahmoud
+26,70,3,26,Fail,Insulation Error,Khaled
+27,143,5,27,Pass,None,Mahmoud
+28,157,1,28,Pass,None,Khaled
+29,148,5,29,Pass,None,Khaled
+30,77,4,30,Pass,None,Salma
+31,64,1,31,Pass,None,Salma
+32,82,3,32,Pass,None,Mahmoud
+33,157,4,33,Pass,None,Khaled
+34,54,1,34,Pass,None,Salma
+35,175,2,35,Pass,None,Eman
+36,48,5,36,Pass,None,Mahmoud
+37,69,5,37,Pass,None,Salma
+38,140,3,38,Pass,None,Mahmoud
+39,49,3,39,Pass,None,Mahmoud
+40,45,4,40,Pass,None,Khaled
+41,86,4,41,Pass,None,Eman
+42,67,3,42,Fail,Diameter Issue,Salma
+43,44,5,43,Pass,None,Salma
+44,75,2,44,Pass,None,Eman
+45,131,3,45,Pass,None,Eman
+46,163,1,46,Pass,None,Salma
+47,97,5,47,Fail,Diameter Issue,Mahmoud
+48,78,3,48,Pass,None,Eman
+49,40,1,49,Pass,None,Mahmoud
+50,106,4,50,Fail,Insulation Error,Khaled
+51,17,3,51,Pass,None,Khaled
+52,56,4,52,Pass,None,Eman
+53,94,1,53,Pass,None,Mahmoud
+54,167,1,54,Pass,None,Khaled
+55,172,2,55,Fail,Diameter Issue,Eman
+56,128,3,56,Fail,Diameter Issue,Eman
+57,175,3,57,Pass,None,Khaled
+58,133,3,58,Pass,None,Mahmoud
+59,177,4,59,Pass,None,Khaled
+60,165,1,60,Pass,None,Eman
+61,124,1,61,Pass,None,Mahmoud
+62,52,5,62,Pass,None,Mahmoud
+63,97,1,63,Pass,None,Khaled
+64,66,2,64,Pass,None,Eman
+65,12,4,65,Pass,None,Salma
+66,52,5,66,Pass,None,Mahmoud
+67,124,5,67,Pass,None,Khaled
+68,98,5,68,Pass,None,Salma
+69,171,3,69,Pass,None,Mahmoud
+70,11,2,70,Pass,None,Mahmoud
+71,51,1,71,Pass,None,Mahmoud
+72,181,5,72,Pass,None,Eman
+73,56,5,73,Pass,None,Salma
+74,152,4,74,Pass,None,Mahmoud
+75,98,2,75,Pass,None,Salma
+76,97,3,76,Pass,None,Khaled
+77,94,4,77,Pass,None,Mahmoud
+78,82,4,78,Fail,None,Khaled
+79,175,4,79,Pass,None,Mahmoud
+80,44,2,80,Pass,None,Khaled
+81,50,4,81,Pass,None,Khaled
+82,159,3,82,Pass,None,Salma
+83,172,1,83,Fail,Insulation Error,Eman
+84,146,4,84,Pass,None,Salma
+85,76,2,85,Fail,Color Defect,Khaled
+86,133,1,86,Fail,Diameter Issue,Salma
+87,148,5,87,Pass,None,Eman
+88,158,4,88,Pass,None,Eman
+89,173,2,89,Fail,Color Defect,Mahmoud
+90,16,3,90,Pass,None,Mahmoud
+91,104,4,91,Fail,Color Defect,Khaled
+92,151,4,92,Pass,None,Eman
+93,5,1,93,Pass,None,Khaled
+94,139,4,94,Pass,None,Mahmoud
+95,160,3,95,Pass,None,Khaled
+96,80,3,96,Pass,None,Mahmoud
+97,100,3,97,Pass,None,Eman
+98,155,1,98,Pass,None,Salma
+99,159,1,99,Pass,None,Eman
+100,75,2,100,Pass,None,Mahmoud
+101,84,4,101,Pass,None,Salma
+102,94,1,102,Pass,None,Eman
+103,86,5,103,Pass,None,Salma
+104,26,2,104,Pass,None,Mahmoud
+105,10,4,105,Pass,None,Salma
+106,11,5,106,Pass,None,Salma
+107,157,3,107,Pass,None,Eman
+108,81,1,108,Pass,None,Eman
+109,81,3,109,Fail,Insulation Error,Salma
+110,136,4,110,Pass,None,Eman
+111,180,3,111,Pass,None,Eman
+112,113,1,112,Pass,None,Salma
+113,148,5,113,Pass,None,Eman
+114,86,3,114,Pass,None,Mahmoud
+115,135,5,115,Pass,None,Eman
+116,90,3,116,Pass,None,Khaled
+117,15,4,117,Pass,None,Eman
+118,136,1,118,Pass,None,Mahmoud
+119,31,4,119,Pass,None,Mahmoud
+120,125,4,120,Fail,Insulation Error,Eman
+121,145,3,121,Pass,None,Khaled
+122,128,4,122,Pass,None,Salma
+123,113,1,123,Pass,None,Salma
+124,140,3,124,Pass,None,Khaled
+125,14,2,125,Pass,None,Eman
+126,116,3,126,Pass,None,Khaled
+127,145,3,127,Pass,None,Mahmoud
+128,53,4,128,Pass,None,Salma
+129,167,1,129,Pass,None,Mahmoud
+130,94,3,130,Pass,None,Eman
+131,56,1,131,Pass,None,Salma
+132,118,4,132,Pass,None,Mahmoud
+133,9,4,133,Pass,None,Khaled
+134,62,1,134,Pass,None,Mahmoud
+135,72,3,135,Pass,None,Salma
+136,31,3,136,Pass,None,Mahmoud
+137,60,3,137,Pass,None,Khaled
+138,119,1,138,Pass,None,Eman
+139,92,4,139,Pass,None,Salma
+140,8,3,140,Pass,None,Salma
+141,122,1,141,Fail,Insulation Error,Eman
+142,80,2,142,Pass,None,Mahmoud
+143,165,3,143,Pass,None,Salma
+144,140,1,144,Pass,None,Eman
+145,161,2,145,Pass,None,Khaled
+146,122,2,146,Pass,None,Khaled
+147,154,5,147,Pass,None,Khaled
+148,114,4,148,Pass,None,Mahmoud
+149,101,5,149,Pass,None,Mahmoud
+150,72,3,150,Pass,None,Mahmoud
+151,73,3,151,Pass,None,Khaled
+152,131,2,152,Fail,Diameter Issue,Salma
+153,155,3,153,Fail,Color Defect,Eman
+154,140,4,154,Pass,None,Salma
+155,57,1,155,Pass,None,Salma
+156,130,3,156,Pass,None,Eman
+157,12,3,157,Pass,None,Mahmoud
+158,181,4,158,Pass,None,Khaled
+159,105,2,159,Pass,None,Mahmoud
+160,20,1,160,Fail,Color Defect,Salma
+161,17,1,161,Fail,Insulation Error,Eman
+162,23,4,162,Fail,Color Defect,Mahmoud
+163,132,5,163,Pass,None,Salma
+164,97,4,164,Pass,None,Mahmoud
+165,52,2,165,Pass,None,Eman
+166,25,4,166,Fail,Color Defect,Eman
+167,48,5,167,Pass,None,Khaled
+168,85,1,168,Pass,None,Eman
+169,147,2,169,Pass,None,Salma
+170,44,4,170,Pass,None,Salma
+171,177,3,171,Fail,Color Defect,Khaled
+172,45,2,172,Pass,None,Eman
+173,41,2,173,Pass,None,Khaled
+174,174,2,174,Fail,Insulation Error,Eman
+175,117,1,175,Pass,None,Eman
+176,55,4,176,Pass,None,Mahmoud
+177,172,5,177,Pass,None,Khaled
+178,95,4,178,Pass,None,Mahmoud
+179,53,5,179,Pass,None,Khaled
+180,150,1,180,Pass,None,Mahmoud
+181,61,5,181,Pass,None,Mahmoud
+182,165,2,182,Pass,None,Khaled
+183,158,4,183,Pass,None,Khaled
+184,132,1,184,Pass,None,Mahmoud
+185,64,2,185,Pass,None,Khaled
+186,73,5,186,Pass,None,Eman
+187,46,2,187,Pass,None,Eman
+188,111,5,188,Fail,Color Defect,Salma
+189,85,1,189,Pass,None,Khaled
+190,168,5,190,Pass,None,Mahmoud
+191,150,4,191,Pass,None,Eman
+192,92,4,192,Pass,None,Khaled
+193,118,3,193,Pass,None,Salma
+194,100,2,194,Pass,None,Mahmoud
+195,140,5,195,Pass,None,Khaled
+196,178,5,196,Pass,None,Khaled
+197,33,1,197,Pass,None,Mahmoud
+198,12,4,198,Pass,None,Mahmoud
+199,176,4,199,Pass,None,Mahmoud
+200,181,3,200,Pass,None,Khaled
